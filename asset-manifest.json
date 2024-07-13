@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Harshil-Patel/static/css/main.5ab12b50.css",
+    "main.js": "/Harshil-Patel/static/js/main.e8ae2717.js",
+    "static/media/image.png": "/Harshil-Patel/static/media/image.24e5f7f09c6ba355fcaa.png",
+    "static/media/portfolio-2.png": "/Harshil-Patel/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-1.png": "/Harshil-Patel/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-3.png": "/Harshil-Patel/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/Linkedin.png": "/Harshil-Patel/static/media/Linkedin.9f39bd2e61a0a8c795ca.png",
+    "static/media/ui-design.png": "/Harshil-Patel/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Harshil-Patel/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Harshil-Patel/index.html",
+    "main.5ab12b50.css.map": "/Harshil-Patel/static/css/main.5ab12b50.css.map",
+    "main.e8ae2717.js.map": "/Harshil-Patel/static/js/main.e8ae2717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab12b50.css",
+    "static/js/main.e8ae2717.js"
+  ]
+}
