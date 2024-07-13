@@ -1,6 +1,5 @@
 import './App.css';
 import About from './Components/About';
-import Clients from './Components/Clients';
 import Contact from './Components/Contact';
 import Intro from './Components/Intro';
 import Navbar from './Components/Navbar';
@@ -13,7 +12,6 @@ function App() {
       <Intro/>
       <About/>
       <Portfolio/>
-      <Clients/>
       <Contact/>
       <Footer/>
     </div>
