@@ -3,7 +3,6 @@ import "../Styles/portfolio.css";
 import portfolio1 from "../Assets/portfolio-1.png";
 import portfolio2 from "../Assets/portfolio-2.png";
 import portfolio3 from "../Assets/portfolio-3.png";
-import portfolio4 from "../Assets/portfolio-4.png";
 
 function Portfolio() {
   return (

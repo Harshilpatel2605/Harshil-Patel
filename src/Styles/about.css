@@ -25,13 +25,13 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 1.5rem;
+    gap: 2rem;
 }
 
 .card {
-    padding: 2rem;
-    padding-left: 2rem;
-    padding-right: 15vw;
+    padding: 2rem 0;
+    padding-right: auto ;
+    padding-left: auto;
     margin: 0 10vw;
     display: flex;
     justify-content: center;
@@ -47,6 +47,7 @@
 img {
     object-fit: cover;
     height: 3rem;
+    margin-left: 1rem;
 }
 
 .card-title {
@@ -55,55 +56,46 @@ img {
 }
 .card-detail {
     font-size: 0.9rem;
-    line-height: 1.5rem;
-    font-weight: 100;
+    line-height: 1.8rem;
+    font-weight: 200;
 }
   
 @media screen and (max-width:730px) {
-    .whatido {
-        font-size: 2rem;
-    }
     .content {
-        font-size: 2vw;
-    }
-    .card {
-        padding: 5vw 7vw ;
+        font-size: 1.3rem;
     }
     .card-title {
-        font-size: 3vw;
-        margin-bottom: 1.3vw;
+        font-size: 1.3rem;
+        margin-bottom: 5px;
+    }
+    .card img {
+        object-fit: cover;
+        height: 3rem;
     }
     .card-detail {
-        line-height: 1rem;
-    }
-    img {
-        object-fit: cover;
-        height: 7vw;
+        font-size: 1rem;
     }
 }
 @media screen and (max-width:560px) {
-    .about{
-        margin-top: 2vw;
-    }
     .content {
         font-size: 2.5vw;
     }
+    .card-title {
+        font-size: 1.3rem;
+        margin-bottom: 5px;
+    }
     .card-detail {
-        font-size: 2vw;
+        font-size: 1rem;
     }
 }
 @media screen and (max-width:460px) {
-    .about{
-        margin-top: 1rem;
-    }
     .content {
-        font-size: 3vw;
+        font-size: 2rem;
     }
-    .img {
-        height: 5rem;
+    .card img {
+        height: 3rem;
     }
     .card-detail {
-        line-height: 0.8rem;
-        font-size: 2.5vw;
+        font-size: 0.9rem;
     }
 }

@@ -13,11 +13,10 @@ function Intro() {
           Web Developer
         </span>
         <p className="detail">
-          I am a skilled and passionate web designer with experience in creating
-          <br /> visually appealing and user-friendly websites.
+          I am a skilled and passionate web designer with experience in creating visually appealing and user-friendly websites.
         </p>
         <a
-          href="https://www.linkedin.com/in/harshil-patel-hnp2605/"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=harshilnavinpatel@gmail.com&su=Subject&body=Body%20text"
           target="_blank"
           rel="noopener noreferrer"
           className="hire-me-link"

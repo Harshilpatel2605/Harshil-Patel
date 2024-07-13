@@ -13,14 +13,14 @@ function About() {
                     <img src={uidesign} alt='UI-UX'/>
                     <div className='card-content'>
                         <div className='card-title'>UI/UX Design</div>
-                        <div className='card-detail'>This is a demo text, you can write your own content here.</div>
+                        <div className='card-detail'>Using Figma for UI/UX and Adobe Illustrator. </div>
                     </div>
                 </div>
                 <div className='card'>
                     <img src={webdesign} alt='Website'/>
                     <div className='card-content'>
                         <div className='card-title'>Website Design</div>
-                        <div className='card-detail'>This is a demo text, you can write your own content here.</div>
+                        <div className='card-detail'>Using Javascript, React Library, Vite Framework.</div>
                     </div>
                 </div>
             </div>

@@ -5,6 +5,7 @@ import menu from "../Assets/menu.png";
 import { Link } from "react-scroll";
 function Navbar() {
   const [showMenu, setshowMenu] = useState(false);
+
   return (
     <nav className="navbar">
       <div className="harshilpatel">HARSHIL PATEL</div>
@@ -25,7 +26,7 @@ function Navbar() {
           to="about"
           spy={true}
           smooth={true}
-          offset={-55}
+          offset={-100}
           duration={500}
           className="menu-item"
         >

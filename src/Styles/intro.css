@@ -43,19 +43,20 @@
 
 .detail {
     margin: 0.5rem 0;
+    margin-right: 33rem;
     font-weight:300;
     font-size: medium;
     letter-spacing: 0.5px;
     line-height: 1.25rem;
 }
-
-.hire-me-link {
+.hire-me-link{
     display: inline-block; 
     text-decoration: none;
-    margin-left: 0;
+    margin-right: auto;
 }
-
 .hire-me-button {
+    display: inline-block; 
+    text-decoration: none;
     background-color: white;
     display: flex;
     align-items: center;
@@ -69,12 +70,12 @@
 }
 
 .hire-me-button:hover {
-    background-color: #f0f0f0; /* Lighten the background on hover */
-    transform: translateY(-2px); /* Move button slightly up on hover */
+    background-color: #f0f0f0; 
+    transform: translateY(-2px); 
 }
 
 .hire-me-button:focus {
-    outline: none; /* Remove default focus outline */
+    outline: none; 
 }
 
 .hire-me-img {
@@ -96,7 +97,7 @@
 
 @media screen and (max-width:850px) {
     .bg{
-        right: -15vw ;
+        right: -6rem ;
     }
     .Iam{
         font-size: 8vw;
@@ -111,25 +112,58 @@
         font-size: 4vw;
     }
     .detail{
-        font-size: 2.5vw;
+        font-size: 1rem;
+        margin-right: 25rem;
+    }
+}
+@media screen and (max-width:814px) {
+    .detail{
+        margin-right: 20rem;
+    }
+}
+@media screen and (max-width:720px) {
+    .detail{
+        margin-right: 15rem;
+    }
+}
+@media screen and (max-width:720px) {
+    .detail{
+        margin-right: 10rem;
+    }
+}
+@media screen and (max-width:600px) {
+    .bg{
+        right: -10rem;
+    }
+    .detail{
+        font-size: 1rem;
     }
 }
 
-@media screen and (max-width:600px) {
-    .bg{
-        right: -23vw ;
-    }
+@media screen and (max-width:540px) {
     .detail{
-        font-size: 3vw;
+        margin-right: 0rem;
     }
 }
 
 @media screen and (max-width:400px) {
     .bg{
-        right: -35vw ;
+        right: -10rem ;
+    }
+    .Iam{
+        font-size: 2rem;
+    }
+    .name {
+        font-size: 2rem;
+    }
+    .profession {
+        font-size: 2rem;
+    }
+    .hello{
+        font-size: 1rem;
     }
     .detail{
-        font-size: 3vw;
+        font-size: 0.8rem;
     }
 }
 

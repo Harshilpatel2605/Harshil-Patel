@@ -95,11 +95,10 @@
     }
 }
 
-@media screen and (max-width:384px){
+@media screen and (max-width:400px){
     .images {
         margin-left: 2rem;
         margin-right: 2rem;
-        gap: 1rem;
     }
     .images img {
         height: 10rem;
