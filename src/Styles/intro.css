@@ -97,7 +97,7 @@
 
 @media screen and (max-width:850px) {
     .bg{
-        right: -6rem ;
+        right: -9rem ;
     }
     .Iam{
         font-size: 8vw;
@@ -133,7 +133,7 @@
 }
 @media screen and (max-width:600px) {
     .bg{
-        right: -10rem;
+        right: -14rem;
     }
     .detail{
         font-size: 1rem;
@@ -148,7 +148,7 @@
 
 @media screen and (max-width:400px) {
     .bg{
-        right: -10rem ;
+        right: -12.5rem ;
     }
     .Iam{
         font-size: 2rem;

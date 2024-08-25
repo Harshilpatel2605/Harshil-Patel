@@ -113,11 +113,11 @@ function Contact() {
           <img src={twitter} alt="Twitter-icon" />
         </a>
         <a
-          href="https://www.youtube.com/@harshilpatel1360"
+          href="https://www.linkedin.com/in/harshil-patel-hnp2605/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={Linkedin} alt="Youtube-icon" />
+          <img src={Linkedin} alt="Linked-In-icon" />
         </a>
         <a
           href="https://www.instagram.com/harshilpatel.26/"

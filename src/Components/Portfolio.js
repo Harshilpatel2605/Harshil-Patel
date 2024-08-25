@@ -16,7 +16,7 @@ function Portfolio() {
       </div>
       <div className="images">
         <a
-          href="https://harshilpatel2605.github.io/React-Portfolio/"
+          href="https://harshilpatel2605.github.io/WebD_LampStore/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -29,7 +29,7 @@ function Portfolio() {
         ><img alt="portfolio-2" src={portfolio2} className="portfolio-img"  /></a>
         
         <a
-          href="https://harshilpatel2605.github.io/WebD_LampStore/"
+          href="https://harshilpatel2605.github.io/WebD_HomeRecipes/"
           target="_blank"
           rel="noopener noreferrer"
         ><img alt="portfolio-3" src={portfolio3} className="portfolio-img"  /></a>
